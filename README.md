@@ -1,27 +1,12 @@
-# EmsiApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![12](https://github.com/saidnidmessaoud/emsi-app-A5/assets/92686626/b9171a68-5dda-4f15-a294-4a1e8fce0ec3)
+![11](https://github.com/saidnidmessaoud/emsi-app-A5/assets/92686626/06df9688-31a5-49d0-bfcc-6764eeef4ea9)
+![10](https://github.com/saidnidmessaoud/emsi-app-A5/assets/92686626/46416c96-eef3-4a64-9553-c824295e8940)
+![9](https://github.com/saidnidmessaoud/emsi-app-A5/assets/92686626/9889e602-2ef4-4278-8c02-435818ee4679)
+![8](https://github.com/saidnidmessaoud/emsi-app-A5/assets/92686626/743fbc47-ab70-43e7-bde0-d7257d366e95)
+![7](https://github.com/saidnidmessaoud/emsi-app-A5/assets/92686626/0b60f303-9bed-4adc-a238-3927c08c7c3a)
+![6](https://github.com/saidnidmessaoud/emsi-app-A5/assets/92686626/78bbb28e-bdad-4bb6-87fd-ce56706bce2d)
+![5](https://github.com/saidnidmessaoud/emsi-app-A5/assets/92686626/da6edd72-0d19-4051-abfe-ae839b5a1244)
+![4](https://github.com/saidnidmessaoud/emsi-app-A5/assets/92686626/11f61769-86b1-45b5-b620-92a9da0dcebf)
+![3](https://github.com/saidnidmessaoud/emsi-app-A5/assets/92686626/5e893bd7-6a72-401f-a422-df0f0178a61e)
+![2](https://github.com/saidnidmessaoud/emsi-app-A5/assets/92686626/f6e4e8c1-cdf8-410c-b325-558e0c266837)
+![1](https://github.com/saidnidmessaoud/emsi-app-A5/assets/92686626/de9ce129-61de-4d89-b433-9f0c51a04df0)
