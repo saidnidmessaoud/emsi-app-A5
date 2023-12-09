@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiT21hciIsImxhc3RuYW1lIjoiT3VhcmRpIiwiZW1haWwiOiJvbWFyQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.dTUu4VHLtxFx4DxmsUEnFOvR-du0rlYAXvHGWtqgHZg"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiT21hciIsImxhc3RuYW1lIjoiT3VhcmRpIiwiZW1haWwiOiJvbWFyQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.DHT6y3uQ7zuR6oqAm9kR03Cufnmq-2NHlddRoQoIvVQ"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiT21hciIsImxhc3RuYW1lIjoiT3VhcmRpIiwiZW1haWwiOiJvbWFyQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiLCJBRE1JTiJdfQ.DaECmJgZ3ayAaViRfi1CzGrCwF1JGXBcorpGpMSOrDk"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 5600,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 3200,
+      "checked": false
+    },
+    {
+      "id": 3,
+      "name": "Smart Phone",
+      "price": 600,
+      "checked": false
+    },
+    {
+      "name": "laptop",
+      "price": "5200",
+      "checked": false,
+      "id": 4
+    },
+    {
+      "name": "pc",
+      "price": "4200",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "name": "camera",
+      "price": "5670",
+      "checked": false,
+      "id": 6
+    }
+  ]
+}
